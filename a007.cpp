@@ -27,6 +27,5 @@ int main()
                 cout<< "質數"<<endl;
         }
     }
-
     return 0;
 }
